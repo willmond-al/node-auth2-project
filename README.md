@@ -6,6 +6,7 @@ In this project we'll implement a full authentication workflow (register/login/l
 
 ## Instructions
 
+
 ### Task 1: Set Up The Project With Git
 
 Follow these steps to set up and work on your project:
